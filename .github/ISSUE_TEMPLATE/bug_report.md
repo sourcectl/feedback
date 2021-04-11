@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: 🐛 Bug Report
 about: You found a bug on sourcectl? Let us know that we can improve the platform
 title: ''
 labels: 'bug'

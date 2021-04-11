@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: ✨ Feature request
 about: You have a feature idea, or want to suggest a small enhancement for sourcectl? This is the way to go.
 title: ''
 labels: 'feature'
